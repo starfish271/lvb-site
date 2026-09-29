@@ -21,7 +21,7 @@ backend:
   repo: starfish271/extx-site  # CHANGE THIS: your-username/your-repo
   branch: main
 
-site_url: https://starfish271.github.io/extx-site/  # CHANGE THIS
+site_url: https://starfish271.github.io/lvb-site/  # CHANGE THIS
 
 # Media uploads go to this folder in the repo
 media_folder: "public/uploads"

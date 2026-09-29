@@ -12,7 +12,7 @@ import react from '@astrojs/react';
 // You can also set them via environment variables if preferred:
 //   SITE_URL=https://username.github.io BASE_PATH=/repo-name npm run build
 const SITE_URL = process.env.SITE_URL || 'https://starfish271.github.io';
-const BASE_PATH = process.env.BASE_PATH || '/extx-site';
+const BASE_PATH = process.env.BASE_PATH || '/lvb-site';
 
 export default defineConfig({
   site: SITE_URL,
